@@ -1,0 +1,24 @@
+.hero-body .input , .hero-body .textarea
+{
+	border:none;
+	box-shadow: none;
+	border-radius: 0px;
+	margin-top:20px;
+	border-bottom:solid 1px #efefef;
+}
+.textarea
+{
+	resize:none;
+}
+.button
+{
+	margin-top:10px;
+}
+.apply
+{
+	margin-top:50px;
+}
+.select
+{
+	margin-top: 20px;
+}
